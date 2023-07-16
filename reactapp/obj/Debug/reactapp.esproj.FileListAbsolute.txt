@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\TestChallenge\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\TestChallenge\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\leose\git-repo\TestChallenge\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\leose\git-repo\TestChallenge\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\leose\git-repo\ChallengeTest\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\leose\git-repo\ChallengeTest\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
