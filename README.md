@@ -10,7 +10,7 @@ This project is essentially a dashboard application featuring graphs for the ana
 ##
 
 <p align="center">
-  Technologies Used:
+  <b>Technologies Used:</b>
 </p>
 
 <p align="center">
